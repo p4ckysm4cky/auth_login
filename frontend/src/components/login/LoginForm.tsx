@@ -22,9 +22,7 @@ export const LoginForm = () => {
                     <Form.Check type="checkbox" label="Remember me" />
                 </Form.Group>
                 <div className="d-grid gap-2">
-                    <Button variant="primary" type="submit">
-                        Submit
-                    </Button>
+                    <Button variant="primary">Submit</Button>
                 </div>
                 <p className="text-center mt-4 text-muted">
                     Not a member?{' '}
